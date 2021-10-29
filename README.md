@@ -1,6 +1,29 @@
 # Hi, I'm Osvaldo Picazo
 
+Here you can check my projects. I'm currently working on Full-Stack Web Development with JavaScript/Node.js and frameworks like Express.js, React.js and Vue.js. Feel free to contact me here:
 
+</br> 
+[LinkedIn](www.linkedin.com/in/osvaldo-picazo)
+
+## Projects
+
+### Igniters
+App for women's organizations.
+JavaScript | MongoDB | Express.js | React.js | Node.js | CRUD | REST API | Axios | Geocoding
+- [GitHub repo](https://github.com/monikageiger/igniters)
+- [Go to App](https://globtrotters-igniters.herokuapp.com)
+
+### Sum TravelShare
+App for sharing expenses.
+JavaScript | MongoDB | Express.js | Handlebars | Node.js | CRUD | API |Axios | Heroku |
+- [GitHub repo](https://github.com/OsvaldoPicazo/TravelShare)
+- [Go to App](https://sumtravelshare.herokuapp.com)
+
+### Asteroids Tribute
+A rendition to the old school arcade game.
+JavaScript | CSS | HTML Canvas | Node.js | DOM Manipulation |
+- [GitHub repo](https://github.com/OsvaldoPicazo/asteroids-game)
+- [Play the game](https://osvaldopicazo.github.io/asteroids-game/)
 
 <!--
 **OsvaldoPicazo/OsvaldoPicazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
